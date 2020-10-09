@@ -1,4 +1,4 @@
-# Competição da base de dados do Titanic na plataforma do Kaggle.
+## Competição da base de dados do Titanic na plataforma do Kaggle.
 
 - O objetivo desta competição é usar o aprendizado de máquina para criar um modelo que seja capaz de prever quais foram os possíveis passageiros que sobreviveram ao naufrágio do Titanic.
 
