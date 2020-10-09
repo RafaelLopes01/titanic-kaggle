@@ -4,4 +4,4 @@
 
 - Os dados usados nesse projeto estão disponíveis neste [link](https://www.kaggle.com/c/titanic) no site do [Kaggle](https://www.kaggle.com/).
 
-- O arquivo <b>titanic-kaggle.ipynb</b> contém toda a análise.
+- O arquivo <b>titanic-kaggle.ipynb</b> contém toda a análise e os resultados do modelo.
